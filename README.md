@@ -6,7 +6,7 @@ Este repositório contém todos os desafios de projeto executados durante o Boot
 
 ## 🎢Desafios de Projetos
 - Desafio 1: [Desafio Banco Terminal](https://github.com/jessieFerrS/BootCamp-Java-Backend-Santander-DIO/tree/main/Desafio%20Banco%20Terminal)
-- Link: Desafio 2
+- Desafio 2: [Desafio Contador](https://github.com/jessieFerrS/BootCamp-Java-Backend-Santander-DIO/tree/main/Desafio%20Controle%20de%20Fluxo%20-%20Criando%20um%20Contador/DesafioControleFluxo)
 
 ## ⚙️Tecnologias Utilizadas Durante o BootCamp
 - Java 
@@ -26,7 +26,7 @@ This repository contains all the project challenges carried out during the Java 
 
 ## 🎢Project Challenges
 - Challenge 1: [Terminal Banking Challenge](https://github.com/jessieFerrS/BootCamp-Java-Backend-Santander-DIO/tree/main/Desafio%20Banco%20Terminal)
-- Link: Challenge 2
+- Challenge 2:[Accountant Challenge](https://github.com/jessieFerrS/BootCamp-Java-Backend-Santander-DIO/tree/main/Desafio%20Controle%20de%20Fluxo%20-%20Criando%20um%20Contador/DesafioControleFluxo)
 
 ## ⚙️Technologies
 - Java 
