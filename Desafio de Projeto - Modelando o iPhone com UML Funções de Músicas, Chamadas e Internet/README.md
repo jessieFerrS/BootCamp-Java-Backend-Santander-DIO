@@ -5,7 +5,11 @@
 Este repositório contém o desafio de projeto no qual era necessário modelar e diagramar um componente Iphone. Uma vez feito o UML do componente, fez-se sua codificação.
 
 ## 📋UML
-
+- Modelo Draw io
+  ![Diagrama1](https://github.com/jessieFerrS/BootCamp-Java-Backend-Santander-DIO/blob/main/Desafio%20de%20Projeto%20-%20Modelando%20o%20iPhone%20com%20UML%20Fun%C3%A7%C3%B5es%20de%20M%C3%BAsicas%2C%20Chamadas%20e%20Internet/Modelando%20o%20iPhone%20com%20UML%20Fun%C3%A7%C3%B5es%20de%20M%C3%BAsicas%2C%20Chamadas%20e%20Internet%20-%20drawIo.png)
+  
+- Modelo Mermaid
+  ![Diagram2](https://github.com/jessieFerrS/BootCamp-Java-Backend-Santander-DIO/blob/main/Desafio%20de%20Projeto%20-%20Modelando%20o%20iPhone%20com%20UML%20Fun%C3%A7%C3%B5es%20de%20M%C3%BAsicas%2C%20Chamadas%20e%20Internet/Modelando%20o%20iPhone%20com%20UML%20Fun%C3%A7%C3%B5es%20de%20M%C3%BAsicas%2C%20Chamadas%20e%20Internet%20-%20Mermaid.png)
 
 ## 🛠️Funcionalidades
 - Reprodutor Musical 
@@ -35,7 +39,11 @@ Este projeto está sobre Licença MIT.
 This repository contains a project challenge in which it was necessary to model and diagram an iPhone component. Once the UML of the component was done, it was coded.
 
 ## 📋UML
-
+- Template Draw io
+  ![Diagrama1](https://github.com/jessieFerrS/BootCamp-Java-Backend-Santander-DIO/blob/main/Desafio%20de%20Projeto%20-%20Modelando%20o%20iPhone%20com%20UML%20Fun%C3%A7%C3%B5es%20de%20M%C3%BAsicas%2C%20Chamadas%20e%20Internet/Modelando%20o%20iPhone%20com%20UML%20Fun%C3%A7%C3%B5es%20de%20M%C3%BAsicas%2C%20Chamadas%20e%20Internet%20-%20drawIo.png)
+  
+- Template Mermaid
+  ![Diagram2](https://github.com/jessieFerrS/BootCamp-Java-Backend-Santander-DIO/blob/main/Desafio%20de%20Projeto%20-%20Modelando%20o%20iPhone%20com%20UML%20Fun%C3%A7%C3%B5es%20de%20M%C3%BAsicas%2C%20Chamadas%20e%20Internet/Modelando%20o%20iPhone%20com%20UML%20Fun%C3%A7%C3%B5es%20de%20M%C3%BAsicas%2C%20Chamadas%20e%20Internet%20-%20Mermaid.png)
 
 ## 🛠️Features
 - Music player 
