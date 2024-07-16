@@ -1,0 +1,48 @@
+@options
+@packages
+-classpath
+'C:/Users/jessi/.m2/repository/one/digitalinnovation/component-maven/1.0-SNAPSHOT/component-maven-1.0-SNAPSHOT.jar;C:/Users/jessi/.m2/repository/com/google/code/gson/gson/2.11.0/gson-2.11.0.jar;C:/Users/jessi/.m2/repository/com/google/errorprone/error_prone_annotations/2.27.0/error_prone_annotations-2.27.0.jar'
+-encoding
+'UTF-8'
+-protected
+-sourcepath
+'C:/Users/jessi/DevMaven/ProjetoViaLinhaDeComando/quick-start-maven/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2024. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/jessi/DevMaven/ProjetoViaLinhaDeComando/quick-start-maven/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'quick-start-maven 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'quick-start-maven 1.0-SNAPSHOT API'
+one.digitalinnovation
+C:\Users\jessi\.m2\repository\one\digitalinnovation\component-maven\1.0-SNAPSHOT\component-maven-1.0-SNAPSHOT.jar = 1718396718018
+C:\Users\jessi\.m2\repository\com\google\code\gson\gson\2.11.0\gson-2.11.0.jar = 1718396009164
+C:\Users\jessi\.m2\repository\com\google\errorprone\error_prone_annotations\2.27.0\error_prone_annotations-2.27.0.jar = 1718396009170
+C:\Users\jessi\DevMaven\ProjetoViaLinhaDeComando\quick-start-maven\src\main\java = 1718306719130
+C:\Users\jessi\DevMaven\ProjetoViaLinhaDeComando\quick-start-maven\target\site\apidocs\allclasses-index.html = 1718489032996
+C:\Users\jessi\DevMaven\ProjetoViaLinhaDeComando\quick-start-maven\target\site\apidocs\allpackages-index.html = 1718489033001
+C:\Users\jessi\DevMaven\ProjetoViaLinhaDeComando\quick-start-maven\target\site\apidocs\copy.svg = 1718489033065
+C:\Users\jessi\DevMaven\ProjetoViaLinhaDeComando\quick-start-maven\target\site\apidocs\element-list = 1718489032918
+C:\Users\jessi\DevMaven\ProjetoViaLinhaDeComando\quick-start-maven\target\site\apidocs\help-doc.html = 1718489033054
+C:\Users\jessi\DevMaven\ProjetoViaLinhaDeComando\quick-start-maven\target\site\apidocs\index-all.html = 1718489033032
+C:\Users\jessi\DevMaven\ProjetoViaLinhaDeComando\quick-start-maven\target\site\apidocs\index.html = 1718489033044
+C:\Users\jessi\DevMaven\ProjetoViaLinhaDeComando\quick-start-maven\target\site\apidocs\link.svg = 1718489033068
+C:\Users\jessi\DevMaven\ProjetoViaLinhaDeComando\quick-start-maven\target\site\apidocs\member-search-index.js = 1718489033011
+C:\Users\jessi\DevMaven\ProjetoViaLinhaDeComando\quick-start-maven\target\site\apidocs\module-search-index.js = 1718489033003
+C:\Users\jessi\DevMaven\ProjetoViaLinhaDeComando\quick-start-maven\target\site\apidocs\overview-tree.html = 1718489032979
+C:\Users\jessi\DevMaven\ProjetoViaLinhaDeComando\quick-start-maven\target\site\apidocs\package-search-index.js = 1718489033005
+C:\Users\jessi\DevMaven\ProjetoViaLinhaDeComando\quick-start-maven\target\site\apidocs\script.js = 1718489033063
+C:\Users\jessi\DevMaven\ProjetoViaLinhaDeComando\quick-start-maven\target\site\apidocs\search-page.js = 1718489033076
+C:\Users\jessi\DevMaven\ProjetoViaLinhaDeComando\quick-start-maven\target\site\apidocs\search.html = 1718489033037
+C:\Users\jessi\DevMaven\ProjetoViaLinhaDeComando\quick-start-maven\target\site\apidocs\search.js = 1718489033074
+C:\Users\jessi\DevMaven\ProjetoViaLinhaDeComando\quick-start-maven\target\site\apidocs\stylesheet.css = 1718489033060
+C:\Users\jessi\DevMaven\ProjetoViaLinhaDeComando\quick-start-maven\target\site\apidocs\tag-search-index.js = 1718489033016
+C:\Users\jessi\DevMaven\ProjetoViaLinhaDeComando\quick-start-maven\target\site\apidocs\type-search-index.js = 1718489033009

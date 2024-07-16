@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"one.digitalinnovation","l":"App"},{"p":"one.digitalinnovation","l":"StatusUser"},{"p":"one.digitalinnovation","l":"User"}];updateSearchResults();
